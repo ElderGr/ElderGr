@@ -9,8 +9,8 @@
 # 
 ## How to Reach Me: 
 [<img align="left" style="margin-right:15px" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" style="margin-right:15px" alt="E-mail" width="22px" src="./imgs/gmail.svg" />][Email]
-[<img  alt="Instagram" width="22px" src="./imgs/instagram.svg" />][Instagram]
+[<img align="left" style="margin-right:15px" alt="E-mail" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngarts.com%2Fexplore%2F231723&psig=AOvVaw3pFI636Z-HCuDBnS4bzRXQ&ust=1636292060951000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjggYztg_QCFQAAAAAdAAAAABAJ" />][Email]
+[<img  alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][Instagram]
 
 ## Languages and Tools:
 
@@ -35,6 +35,6 @@
 </details>
 
 
-[linkedin]: https://www.linkedin.com/in/lucas-franchini-18b459217/
-[Email]:lucasfranchini.a@gmail.com
-[Instagram]:https://www.instagram.com/lucasfranchinialves/
+[linkedin]: https://www.linkedin.com/in/gabriel-ramos-dos-santos/
+[Email]:comercial.gabriel.rs@gmail.com
+[Instagram]:https://www.instagram.com/gr_zzr/
