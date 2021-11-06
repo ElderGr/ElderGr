@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I like to see reviews of street food from other countries
 # 
 ## How to Reach Me: 
-[<img align="left" style="margin-right:15px" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" style="margin-right:15px" alt="E-mail" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngarts.com%2Fexplore%2F231723&psig=AOvVaw3pFI636Z-HCuDBnS4bzRXQ&ust=1636292060951000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjggYztg_QCFQAAAAAdAAAAABAJ" />][Email]
+[<img align="left" style="margin-right:15px" alt="LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Fillustration-of-linkedin-icon-on-transparent-background-png%2F&psig=AOvVaw36DOVkOTqp2GIBupIMtkzP&ust=1636292161625000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCCz7rtg_QCFQAAAAAdAAAAABAW" />][linkedin]
+[<img align="left" style="margin-right:15px" alt="E-mail" width="22px" src="https://img.favpng.com/1/20/13/email-computer-icons-gmail-png-favpng-0eDE1jiptFVC3nzaK2d6zeHEM.jpg" />][Email]
 [<img  alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][Instagram]
 
 ## Languages and Tools:
