@@ -35,6 +35,6 @@
 </details>
 
 
-[linkedin]: https://www.linkedin.com/in/gabriel-ramos-dos-santos/
-[Email]: comercial.gabriel.rs@gmail.com
-[Instagram]: https://www.instagram.com/gr_zzr/
+[linkedin]:https://www.linkedin.com/in/gabriel-ramos-dos-santos/
+[Email]:comercial.gabriel.rs@gmail.com
+[Instagram]:https://www.instagram.com/gr_zzr/
