@@ -1,5 +1,5 @@
 ### Hi there  i'm Gabriel 👋
-<img  alt="GIF" src="https://c.tenor.com/YnizaZv-1TMAAAAC/patrick-star-dumb.gif" width="200" />
+<img  alt="GIF" src="https://c.tenor.com/YnizaZv-1TMAAAAC/patrick-star-dumb.gif" width="500" />
 
 #  
 
