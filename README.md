@@ -1,11 +1,10 @@
 ### Hi there  i'm Gabriel 👋
-<img  alt="GIF" src="https://media.tenor.com/images/d460ddaa628a29446e5bbc7f38869807/tenor.gif" width="200" />
+<img  alt="GIF" src="https://c.tenor.com/YnizaZv-1TMAAAAC/patrick-star-dumb.gif" width="200" />
 
 #  
 
-- 🌱 I’m currently learning typescript
+- 📚 I’m currently learning typescript
 - 💬 Ask me about Anything
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to see reviews of street food from other countries
 # 
 ## How to Reach Me: 
