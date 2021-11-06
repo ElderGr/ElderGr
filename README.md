@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I like to see reviews of street food from other countries
 # 
 ## How to Reach Me: 
-[<img align="left" style="margin-right:15px" alt="LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww12.senado.leg.br%2Finstitucional%2Fimg%2Fredessociais%2Flinkedin%2Fimage_view_fullscreen&psig=AOvVaw3a5QtjneC02aW4cKJ9QVLk&ust=1636292198349000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjI4Mvtg_QCFQAAAAAdAAAAABAD" />][linkedin]
-[<img align="left" style="margin-right:15px" alt="E-mail" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-811dp7%2F&psig=AOvVaw3lFuFghHXghgBaqdnXGCCl&ust=1636292237645000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjr397tg_QCFQAAAAAdAAAAABAD" />][Email]
+[<img align="left" style="margin-right:15px" alt="LinkedIn" width="22px" src="https://www.vhv.rs/dpng/d/9-99265_linkedin-icon-png-transparent-png.png" />][linkedin]
+[<img align="left" style="margin-right:15px" alt="E-mail" width="22px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" />][Email]
 [<img  alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][Instagram]
 
 ## Languages and Tools:
