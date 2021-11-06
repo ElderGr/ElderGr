@@ -35,6 +35,6 @@
 </details>
 
 
-[linkedin]:https://www.linkedin.com/in/gabriel-ramos-dos-santos/
-[Email]:comercial.gabriel.rs@gmail.com
-[Instagram]:https://www.instagram.com/gr_zzr/
+[linkedin]: https://www.linkedin.com/in/lucas-franchini-18b459217/
+[Email]:lucasfranchini.a@gmail.com
+[Instagram]:https://www.instagram.com/lucasfranchinialves/
