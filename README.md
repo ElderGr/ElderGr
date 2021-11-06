@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like to see reviews of street food from other countries
 # 
 ## How to Reach Me: 
-[<img align="left" style="margin-right:15px" alt="LinkedIn" width="22px" src="https://www.vhv.rs/dpng/d/9-99265_linkedin-icon-png-transparent-png.png" />][linkedin]
+[<img align="left" style="margin-right:15px" alt="LinkedIn" width="22px" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=780&h=408&crop=1" />][linkedin]
 [<img align="left" style="margin-right:15px" alt="E-mail" width="22px" src="https://cdn-icons-png.flaticon.com/512/552/552486.png" />][Email]
 [<img  alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][Instagram]
 
