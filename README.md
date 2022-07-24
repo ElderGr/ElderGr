@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ramos dos Santos</h1>
 <h3 align="center">A brazilian developer, computer science student and big consumer of podcasts</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldergr" alt="eldergr" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript, software architecture and unity tests**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElderGr?tab=repositories](https://github.com/ElderGr?tab=repositories)
