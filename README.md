@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ramos dos Santos</h1>
-<h3 align="center">A brazilian developer, computer science student and big consumer of podcasts</h3>
+<h3>A brazilian developer, computer science student and big consumer of podcasts</h3>
 
 - 🌱 I’m currently learning **Typescript, software architecture and unity tests**
 
