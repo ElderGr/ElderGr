@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ramos dos Santos</h1>
 <h3>A brazilian developer, computer science student and big consumer of podcasts</h3>
 
+<img alt="GIF" src="https://camo.githubusercontent.com/14d9abee28e495fdca3354749a1dbb7ad6e8b651ff6e32167f15faecab5ec1c0/68747470733a2f2f632e74656e6f722e636f6d2f596e697a615a762d31544d41414141432f7061747269636b2d737461722d64756d622e676966" data-canonical-src="https://c.tenor.com/YnizaZv-1TMAAAAC/patrick-star-dumb.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 - 🌱 I’m currently learning **Typescript, software architecture and unity tests**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ElderGr?tab=repositories](https://github.com/ElderGr?tab=repositories)
