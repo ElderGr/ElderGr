@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **react, node, postgres**
 
-- 📫 How to reach me **gbielrs@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-ramos-dos-santos/](https://www.linkedin.com/in/gabriel-ramos-dos-santos/)
 
 - ⚡ Fun fact **I skated for a long time 🛹**
